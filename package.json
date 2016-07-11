@@ -1,0 +1,27 @@
+{
+  "name": "nodeos-gui",
+  "version": "1.0.0",
+  "description": "A desktop/gui for NodeOS.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ntop -start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tross-software-and-tech/nodeos-gui.git"
+  },
+  "keywords": [
+    "NodeOS",
+    "desktop",
+    "gui"
+  ],
+  "author": "Tross Software and Tech",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tross-software-and-tech/nodeos-gui/issues"
+  },
+  "homepage": "https://github.com/tross-software-and-tech/nodeos-gui#readme",
+  "dependencies": {
+   "yunitto": "^0.7.9"
+  }
+}
